@@ -1,0 +1,12 @@
+antlr4-python3-runtime==4.13.1
+// main.g4
+
+grammar Palindrome;
+
+start: INT;
+
+INT: DIGIT+;
+
+DIGIT: '0'..'9';
+
+WS: [ \t\r\n]+ -> skip;
