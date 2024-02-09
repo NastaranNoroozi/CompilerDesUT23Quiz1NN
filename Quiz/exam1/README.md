@@ -1,3 +1,7 @@
+### Output:
+[![mypicforquiz.png](https://i.postimg.cc/k4TxChLZ/mypicforquiz.png)](https://postimg.cc/ygSJXn1X)
+
+
 ### Grammar Explanation:
 
 ```antlr
