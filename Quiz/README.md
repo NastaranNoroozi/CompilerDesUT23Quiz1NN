@@ -62,4 +62,8 @@ WS: [ \t\r\n]+ -> skip;
 
 [![mypicforquiz2.png](https://i.postimg.cc/VvhKrysH/mypicforquiz2.png)](https://postimg.cc/4Hz6qS9z)
 
+[![mypicforquizp6.png](https://i.postimg.cc/448c0PVL/mypicforquizp6.png)](https://postimg.cc/PNwNpm6Y)
+
+[![mypicforquizp5.png](https://i.postimg.cc/cHnzzC5T/mypicforquizp5.png)](https://postimg.cc/KkmQkGbg)
+
 This example demonstrates recognizing and printing both string and numeric palindromes in the provided input text.
