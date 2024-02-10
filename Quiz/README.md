@@ -48,13 +48,7 @@ WS: [ \t\r\n]+ -> skip;
     antlr4 -Dlanguage=Python3 palindrome.g4
     ```
 
-4. **Run the Python Script:**
 
-    ```bash
-    python FindPalindromes.py
-    ```
-
-5. **Enter Your Input Text When Prompted.**
 
 ## Example
 
