@@ -1,4 +1,5 @@
-
+First Quiz
+***************************
 ```markdown
 # Palindrome Recognition with ANTLR4 and Python
 
@@ -59,8 +60,3 @@ WS: [ \t\r\n]+ -> skip;
 ![1](https://github.com/zahrahabibolah/compiler_design_fall_2023/blob/main/quiz1/quiz.png?raw=true)
 
 This example demonstrates recognizing and printing both string and numeric palindromes in the provided input text.
-
-## License
-
-This grammar is provided under the [MIT License](LICENSE) specified in the repository.
-```
